@@ -31,6 +31,6 @@ abc_reyobi_Python/
 
 ## リンク
 
-- [Atcoder Library](https://kenkoooo.com/atcoder/#/table/liecrew)
+- [Atcoder Library](https://kenkoooo.com/atcoder/#/table/liecrew) - 今までに解いた問題一覧
 
 [![Badge](https://cp-logo.vercel.app/atcoder/liecrew)](https://atcoder.jp/users/liecrew)

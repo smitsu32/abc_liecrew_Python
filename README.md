@@ -32,3 +32,5 @@ abc_reyobi_Python/
 ## リンク
 
 - 🔗 [AtCoderプロフィール(liecrew)](https://atcoder.jp/users/liecrew)
+
+[![Badge](https://cp-logo.vercel.app/atcoder/liecrew)](https://atcoder.jp/users/liecrew)

@@ -10,12 +10,12 @@
 
 ```
 abc_reyobi_Python/
-├── myans_py/               # 解答ファイル (計397件)
-│   ├── ab/                 # A・B問題 (74件)
-│   ├── c/                  # C問題 (215件)
-│   ├── d/                  # D問題 (97件)
-│   └── e/                  # E問題 (9件)
-├── memo.py                 # メモ・スニペット
+├── myans_py/               # 解答ファイル
+│   ├── ab/                 # A・B問題
+│   ├── c/                  # C問題
+│   ├── d/                  # D問題
+│   └── e/                  # E問題
+├── memo.py                 # メモ
 ├── memo2.py
 ├── memo3.py
 ├── requirements.txt

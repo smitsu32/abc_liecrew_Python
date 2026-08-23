@@ -28,6 +28,7 @@ abc_reyobi_Python/
 
 ## リンク
 
-- [Atcoder Library](https://kenkoooo.com/atcoder/#/table/liecrew) - 今までに解いた問題一覧
+- [Atcoder Library](https://kenkoooo.com/atcoder/#/user/liecrew?userPageTab=AtCoder+Pie+Charts) - 今までに解いた問題一覧
+- [Atcoder NoviSteps](https://atcoder-novisteps.vercel.app/problems) - 難易度でソートされた問題一覧(反映なし)
 
 [![Badge](https://cp-logo.vercel.app/atcoder/liecrew)](https://atcoder.jp/users/liecrew)

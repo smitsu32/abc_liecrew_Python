@@ -15,9 +15,6 @@ abc_reyobi_Python/
 │   ├── c/                  # C問題
 │   ├── d/                  # D問題
 │   └── e/                  # E問題
-├── memo.py                 # メモ
-├── memo2.py
-├── memo3.py
 ├── requirements.txt
 └── README.md
 ```

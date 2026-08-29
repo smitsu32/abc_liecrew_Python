@@ -1,18 +1,14 @@
 n,k=map(int, input().split())
 
-d=[[k,n,[]]]
-ans=[]
-while d:
-    now,cnt,ansi=d.pop()
-    if cnt==1:
-        ansi.append(now)
-        ans.append(ansi[::-1])
-    else:
-        i=0
-        while now>=cnt*i:
-            d.append([now-cnt*i,cnt-1,ansi+[i]])
-            i+=1
-
-ans.sort()
-for l in ans:
-    print(*l)
+def dfs(cnt,now,a): 
+    if cnt==n: #最終indexなら結果を出力、終了
+        if (k-now)%n==0:
+            a[cnt-1]=(k-now)//n
+            print(*a)
+        return 
+    i=0
+    while k-now>=cnt*i: # 割った結果が0以上
+        a[cnt-1]=i
+        dfs(cnt+1,now+cnt*i,a)
+        i+=1
+dfs(1,0,[0]*n)
